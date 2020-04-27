@@ -39,7 +39,7 @@
       <name>Parlimen</name>
       <Placemark>
         <name>P.143 PAGOH</name>
-        <description><![CDATA[P.143 PAGOH <br> <br> Name P.143 PAGOH <br> StateCode 01 <br> StateName JOHOR <br> ParliamentCode 143 <br> ParliamentName PAGOH]]></description>
+        <description><![CDATA[P.143 PAGOH <br> <br> Name P.143 PAGOH <br> Negeri : JOHOR <br> P143 - PAGOH]]></description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <Polygon>
           <outerBoundaryIs>
