@@ -43,19 +43,6 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Point Parlimen</name>
-      <Placemark>
-        <name>PAGOH</name>
-        <description><![CDATA[P.143  PAGOH    <br>       <br>   Name   P.143  PAGOH    <br>   StateCode   01    <br>   StateName   JOHOR    <br>   ParliamentCode   143    <br>   ParliamentName   PAGOH    <br>   Source   SPR    <br>   Version   2018    <br>   WakilRakyat   YB TAN SRI MUHYIDDIN BIN MOHD YASSIN    <br>   CombinePar   P143 - PAGOH    <br>   ParCode   P143    <br>   ORIG_FID   23]]></description>
-        <styleUrl>#icon-1899-AFB42B-labelson</styleUrl>
-        <Point>
-          <coordinates>
-            102.802745,2.227203,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
       <name>Parlimen</name>
       <Placemark>
         <name>P.143 PAGOH</name>
