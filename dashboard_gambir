@@ -39,36 +39,36 @@
         <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-E65100-2000-0-normal">
+    <Style id="poly-E65100-2000-122-normal">
       <LineStyle>
         <color>ff0051e6</color>
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>000051e6</color>
+        <color>7a0051e6</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <Style id="poly-E65100-2000-0-highlight">
+    <Style id="poly-E65100-2000-122-highlight">
       <LineStyle>
         <color>ff0051e6</color>
         <width>3</width>
       </LineStyle>
       <PolyStyle>
-        <color>000051e6</color>
+        <color>7a0051e6</color>
         <fill>1</fill>
         <outline>1</outline>
       </PolyStyle>
     </Style>
-    <StyleMap id="poly-E65100-2000-0">
+    <StyleMap id="poly-E65100-2000-122">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-E65100-2000-0-normal</styleUrl>
+        <styleUrl>#poly-E65100-2000-122-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-E65100-2000-0-highlight</styleUrl>
+        <styleUrl>#poly-E65100-2000-122-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
@@ -89,7 +89,7 @@
       <Placemark>
         <name>JOHOR</name>
         <description><![CDATA[JOHOR    <br>       <br>   ParCode   144    <br>   StateName   JOHOR    <br>   StateCode   01    <br>   Parliament   144    <br>   DunCode   14409    <br>   DunName   GAMBIR    <br>   Version   2018    <br>   Source   SPR    <br>   CombineDun   N09 - GAMBIR    <br>   DisCode   N09    <br>   ADUN       <br>   ParliamentName   Ledang]]></description>
-        <styleUrl>#poly-E65100-2000-0</styleUrl>
+        <styleUrl>#poly-E65100-2000-122</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
